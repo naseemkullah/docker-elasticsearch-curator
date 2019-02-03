@@ -11,5 +11,5 @@ Lean Elasticsearch Curator container image, based on Alpine Linux 3.7 and Python
 ## Usage
 
 ```
-docker pull quay.io/pires/docker-elasticsearch-curator:5.5.4
+docker pull <tbd>/docker-elasticsearch-curator:5.6.0
 ```
