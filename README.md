@@ -11,5 +11,5 @@ Thanks to @pires.
 ## Usage
 
 ```
-docker pull <tbd>/docker-elasticsearch-curator
+docker pull <tbd>/elasticsearch-curator
 ```
